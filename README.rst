@@ -8,9 +8,6 @@
 
 --------------------------
 
-.. image:: https://badge.fury.io/py/handler.png
-    :target: http://badge.fury.io/py/handler
-
 .. image:: https://travis-ci.org/yngtodd/handler.png?branch=master
     :target: https://travis-ci.org/yngtodd/handler
 
@@ -20,6 +17,8 @@ DataHandler
 =============================
 
 Data handler for Pilot III
+
+Author: Hong-Jun Yoon
 
 Documentation
 --------------

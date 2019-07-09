@@ -1,3 +1,9 @@
+"""
+Pilot III Data Handler.
+
+Author: Hong-Jun Yoon
+"""
+
 import numpy as np
 import pickle
 from sklearn.preprocessing import LabelEncoder
