@@ -2,7 +2,7 @@
 
     <embed>
         <p align="center">
-            <img width="300" src="https://github.com/yngtodd/handler/blob/master/img/pylibrary.png">
+            <img width="300" src="https://github.com/ORNL-BSEC/handler/blob/master/img/pylibrary.png">
         </p>
     </embed>
 
