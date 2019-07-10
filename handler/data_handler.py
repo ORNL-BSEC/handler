@@ -19,7 +19,7 @@ import subprocess
 
 class DataHandler():
     def __init__( self,
-                  basedir = '/gpfs/alpine/proj-shared/med107/NCI_Data',
+                  basedir = '/mnt/scratch/yoonh/NCI_Data',
                   batch_name = 'LA_v2',
                   prep_mode = 'unify_whitespace_full',
                   data_name = 'none',
