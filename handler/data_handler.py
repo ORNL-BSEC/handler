@@ -21,7 +21,7 @@ class DataHandler():
     def __init__( self,
                   basedir = '/mnt/scratch/yoonh/NCI_Data',
                   batch_name = 'LA_v2',
-                  prep_mode = 'unify_whitespace_full',
+                  prep_mode = 'cnn',
                   data_name = 'none',
                   seed = 3545,
                   n_folds = 10,
